@@ -1,0 +1,7 @@
+{
+  "name": "SPMB Gen Alpha - Mutulingga",
+  "description": "A futuristic and vibrant student admission system (PPDB) designed for Gen Alpha with a bold maroon aesthetic and AI-powered profile analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
